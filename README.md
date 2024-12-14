@@ -1,2 +1,3 @@
-# learning-go
-My Go learning playground
+# Go learning playground
+
+Just having fun. Do not take code serious.
